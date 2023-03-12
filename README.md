@@ -1,5 +1,6 @@
 # Downutz 🍩
 This is a simple website created with NextJS for the purpose of testing out the framework. 
+https://downutz.vercel.app/
 
 ## Getting Started
 To get started with this project, you'll need to have Node.js and npm installed on your machine. Once you have those set up, you can follow these steps:
